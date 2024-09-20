@@ -1,0 +1,5 @@
+File Rouge Project:
+*Shopify extension for stores
+Knowledge requirements:
+*GraphiQl
+*Shopify (how it works)
